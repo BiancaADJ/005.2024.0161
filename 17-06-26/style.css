@@ -1,0 +1,28 @@
+body {
+  background-color: burlywood;
+  font-family: "Black Ops One";
+  text-align: center;
+}
+
+a.p1{
+  color: chocolate;
+}
+p.p1{
+  color: blue;
+}
+
+#id1{
+  color: green;
+}
+
+div.div1{
+  background-color: coral;
+}
+
+div.div2{
+  background-color: cornflowerblue;
+}
+
+div{
+
+}
